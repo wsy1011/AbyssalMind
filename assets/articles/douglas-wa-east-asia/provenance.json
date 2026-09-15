@@ -1,0 +1,34 @@
+[
+  {
+    "figure": "8",
+    "pdfPage": 11,
+    "sourceFigure": "Figure 8",
+    "file": "assets\\articles\\douglas-wa-east-asia\\figure-8.png",
+    "sha256": "49c01154ce8afbe38f766864f14fda0d6699a943f75f741946aeb3a84b4bb996",
+    "extraction": "PDF Figure fallback crop; complete figure panel retained"
+  },
+  {
+    "figure": "9",
+    "pdfPage": 12,
+    "sourceFigure": "Figure 9",
+    "file": "assets\\articles\\douglas-wa-east-asia\\figure-9.png",
+    "sha256": "64991d2c8e8e4f601cf07536ca1085653fe44da07215786705001801ba160995",
+    "extraction": "PDF Figure fallback crop; complete figure panel retained"
+  },
+  {
+    "figure": "11",
+    "pdfPage": 13,
+    "sourceFigure": "Figure 11",
+    "file": "assets\\articles\\douglas-wa-east-asia\\figure-11.png",
+    "sha256": "49baabfa07dece2e873bb002fc91f5acdcf6f0ba41c10dbf8bc8bc6764ed9172",
+    "extraction": "PDF Figure fallback crop; complete figure panel retained"
+  },
+  {
+    "figure": "12",
+    "pdfPage": 14,
+    "sourceFigure": "Figure 12",
+    "file": "assets\\articles\\douglas-wa-east-asia\\figure-12.png",
+    "sha256": "4971ba864e142b5381738d325ff7efdfb5d7fdd3727671c41954e6a9a7210cf0",
+    "extraction": "PDF Figure fallback crop; complete figure panel retained"
+  }
+]
