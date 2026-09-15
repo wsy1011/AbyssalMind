@@ -18,7 +18,7 @@
   "domains": ["transport", "energy", "shipping", "economy"],
   "topics": ["electric-vessels"],
   "regions": ["China"],
-  "tags": ["battery", "operations"],
+  "tags": ["battery", "operations"],`r`n  "image": {"src": "assets/images/unique-slug.webp", "alt": "描述插图内容", "credit": "来源或作者"},
   "takeaways": ["核心结论"],
   "whyItMatters": "对研究和产业实践的意义",
   "source": {"title": "原始来源标题", "url": "https://example.org", "kind": "paper"},
@@ -42,3 +42,4 @@
 - 事实、作者解释和推测性判断在文章正文中分开表达。
 - `updatedAt` 只在内容实际修改后更新。
 - 未完成内容使用 `draft`，不会出现在公开列表。
+
