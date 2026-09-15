@@ -58,7 +58,7 @@ html = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <title>亚欧绿色航运走廊的燃料转型 | Abyssal Mind</title>
 <link rel="stylesheet" href="../brief.css"></head><body>
 <header><a class="brand" href="../index.html">Abyssal Mind<span>深水区</span></a><a href="../index.html#research">← 返回研究速递</a></header>
-<div class="layout"><aside><p>RESEARCH BRIEF · 001</p>''' + ''.join(toc) + '''</aside>
+<div class="layout"><aside><p>RESEARCH BRIEF</p>''' + ''.join(toc) + '''</aside>
 <main><div class="eyebrow">航运 / 能源 / 政策 · 研究解读草稿</div>''' + str(soup) + '''</main></div>
 <footer>Abyssal Mind · 连接研究证据与产业实践</footer></body></html>'''
 page = ROOT / f'articles/{SLUG}.html'

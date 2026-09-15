@@ -1,6 +1,6 @@
 # 亚欧绿色航运走廊的燃料转型：政策、成本与工程约束
 
-<div class="article-tags"><a href="#research-brief">#ResearchBrief001</a><a href="#shipping">#Shipping</a><a href="#energy">#Energy</a><a href="#policy">#Policy</a></div>
+<div class="article-tags"><a href="#research-brief">#ResearchBrief</a><a href="#shipping">#Shipping</a><a href="#energy">#Energy</a><a href="#policy">#Policy</a></div>
 
 > Li, C., Gu, X., Qin, Q., Zhang, W., Xu, G., Yang, J., & Feng, K. (2026). *Phased fuel transitions for decarbonizing the Asia–Europe green shipping corridor*. *Nature Sustainability, 9*, 1256–1265. https://doi.org/10.1038/s41893-026-01878-9
 
