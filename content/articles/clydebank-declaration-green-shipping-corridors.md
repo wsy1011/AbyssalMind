@@ -4,7 +4,7 @@
 
 > Department for Transport. (2023). *COP26: Clydebank Declaration for green shipping corridors*. UK Government. https://www.gov.uk/government/publications/cop-26-clydebank-declaration-for-green-shipping-corridors/cop-26-clydebank-declaration-for-green-shipping-corridors
 
-《Clydebank Declaration》不是“首次提出”绿色走廊。低碳航运、港口协作和替代燃料的讨论在它之前已经存在。它的重要性在于为“绿色航运走廊”提供了一个由多国政府共同采纳的政策定义和行动框架，将其纳入跨国合作、国家行动计划和基础设施协调的议程。
+如果特指“绿色航运走廊”，文献通常将 2021 年 COP26 的《Clydebank Declaration》视为这一概念进入政策与学术语境的起点或正式确立。需要保留一个边界：广义“绿色走廊”概念更早源于欧盟的多式联运讨论；但《Clydebank Declaration》首次将其明确收束为跨港口、零排放海运航线的国际合作框架。它由多国政府共同采纳，并将燃料、港口、船队和基础设施协作纳入同一政策议程。
 
 ## 声明做了什么
 
