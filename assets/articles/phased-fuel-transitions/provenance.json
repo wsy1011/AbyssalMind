@@ -1,0 +1,97 @@
+[
+  {
+    "figure": 1,
+    "pdfPage": 3,
+    "journalPage": 1258,
+    "pluginResultId": "3-334kpd",
+    "file": "assets/articles/phased-fuel-transitions/figure-1.png",
+    "sha256": "a91dd581cae114a12d3232250b91f926e2297e4bbd195f91fae1de29f0c3464e",
+    "extraction": "Existing Zotero PDF Figure cache, copied without image edits",
+    "pluginCacheUpdatedAt": "2026-09-08T03:44:57.193Z",
+    "rect": [
+      87.57,
+      396.62,
+      509.56,
+      743.73
+    ],
+    "sourceFingerprint": "file:5295306:1788574758988",
+    "doi": "10.1038/s41893-026-01878-9",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "figure": 2,
+    "pdfPage": 4,
+    "journalPage": 1259,
+    "pluginResultId": "4-1gxi2q4",
+    "file": "assets/articles/phased-fuel-transitions/figure-2.png",
+    "sha256": "732923f69ebcd278f90e007ba54e8eb1a26f333ae60878a893d27aa4377ca04a",
+    "extraction": "Existing Zotero PDF Figure cache, copied without image edits",
+    "pluginCacheUpdatedAt": "2026-09-08T03:44:57.193Z",
+    "rect": [
+      38.34,
+      433,
+      554.38,
+      740.57
+    ],
+    "sourceFingerprint": "file:5295306:1788574758988",
+    "doi": "10.1038/s41893-026-01878-9",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "figure": 3,
+    "pdfPage": 5,
+    "journalPage": 1260,
+    "pluginResultId": "5-pbxc2m",
+    "file": "assets/articles/phased-fuel-transitions/figure-3.png",
+    "sha256": "4a9658edee29147b9d27e6124472fbd9283c77a38e234bb6c56df509cae46c82",
+    "extraction": "Existing Zotero PDF Figure cache, copied without image edits",
+    "pluginCacheUpdatedAt": "2026-09-08T03:44:57.193Z",
+    "rect": [
+      98.82,
+      313.18,
+      507.23,
+      740.25
+    ],
+    "sourceFingerprint": "file:5295306:1788574758988",
+    "doi": "10.1038/s41893-026-01878-9",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "figure": 4,
+    "pdfPage": 6,
+    "journalPage": 1261,
+    "pluginResultId": "6-gs9aig",
+    "file": "assets/articles/phased-fuel-transitions/figure-4.png",
+    "sha256": "e6d178b8ab5cf74aeb0acf3b9913657f07e087e7637c8593ff324aaad5357dc7",
+    "extraction": "Existing Zotero PDF Figure cache, copied without image edits",
+    "pluginCacheUpdatedAt": "2026-09-08T03:44:57.193Z",
+    "rect": [
+      41.43,
+      417.18,
+      554.98,
+      750.85
+    ],
+    "sourceFingerprint": "file:5295306:1788574758988",
+    "doi": "10.1038/s41893-026-01878-9",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  },
+  {
+    "figure": 5,
+    "pdfPage": 7,
+    "journalPage": 1262,
+    "pluginResultId": "7-lkrio",
+    "file": "assets/articles/phased-fuel-transitions/figure-5.png",
+    "sha256": "1186c56338dcbaf63cdf6650b824581f2a4b8207a1ecb102b9e6afc301529b9e",
+    "extraction": "Existing Zotero PDF Figure cache, copied without image edits",
+    "pluginCacheUpdatedAt": "2026-09-08T03:44:57.193Z",
+    "rect": [
+      44.53,
+      99.65,
+      542.89,
+      747.68
+    ],
+    "sourceFingerprint": "file:5295306:1788574758988",
+    "doi": "10.1038/s41893-026-01878-9",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  }
+]

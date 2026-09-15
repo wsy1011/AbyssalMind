@@ -11,13 +11,31 @@
       "publishedAt": "2026-09-15",
       "updatedAt": "2026-09-15",
       "author": "Abyssal Mind Editorial",
-      "domains": ["transport", "energy", "shipping"],
-      "topics": ["electric-vessels"],
-      "regions": ["China"],
-      "tags": ["battery", "operations", "inland-shipping"],
-      "takeaways": ["续航能力只是约束之一，补能网络与运营节奏同样决定可行性。"],
+      "domains": [
+        "transport",
+        "energy",
+        "shipping"
+      ],
+      "topics": [
+        "electric-vessels"
+      ],
+      "regions": [
+        "China"
+      ],
+      "tags": [
+        "battery",
+        "operations",
+        "inland-shipping"
+      ],
+      "takeaways": [
+        "续航能力只是约束之一，补能网络与运营节奏同样决定可行性。"
+      ],
       "whyItMatters": "为船队电动化评估提供技术参数之外的运营视角。",
-      "source": {"title": "待补充原始研究来源", "url": "", "kind": "paper"},
+      "source": {
+        "title": "待补充原始研究来源",
+        "url": "",
+        "kind": "paper"
+      },
       "readingTime": 8,
       "featured": true,
       "body": "articles/electric-inland-vessels-operational-boundaries.md"
@@ -32,16 +50,81 @@
       "publishedAt": "2026-09-14",
       "updatedAt": "2026-09-14",
       "author": "Abyssal Mind Editorial",
-      "domains": ["shipping", "transport", "economy"],
-      "topics": ["green-shipping-corridors"],
-      "regions": ["Global"],
-      "tags": ["data", "methods", "coordination"],
-      "takeaways": ["等待和转运事件会改变走廊协同效率的测量结果。"],
+      "domains": [
+        "shipping",
+        "transport",
+        "economy"
+      ],
+      "topics": [
+        "green-shipping-corridors"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "tags": [
+        "data",
+        "methods",
+        "coordination"
+      ],
+      "takeaways": [
+        "等待和转运事件会改变走廊协同效率的测量结果。"
+      ],
       "whyItMatters": "帮助研究者和运营方识别单纯比较航行时间之外的系统成本。",
-      "source": {"title": "待补充原始研究来源", "url": "", "kind": "paper"},
+      "source": {
+        "title": "待补充原始研究来源",
+        "url": "",
+        "kind": "paper"
+      },
       "readingTime": 6,
       "featured": false,
       "body": "articles/waiting-time-green-shipping-corridor.md"
+    },
+    {
+      "id": "phased-fuel-transitions-for-asia-europe-corridor",
+      "type": "research",
+      "status": "draft",
+      "title": "分阶段燃料转型：亚欧绿色航运走廊如何走向脱碳？",
+      "dek": "结合论文五张原图，理解清洁电力、政策组合与船舶技术如何共同塑造燃料转型路径。",
+      "language": "zh-CN",
+      "publishedAt": null,
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind",
+      "domains": [
+        "shipping",
+        "energy",
+        "transport",
+        "economy",
+        "policy"
+      ],
+      "topics": [
+        "green-shipping-corridors"
+      ],
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "tags": [
+        "alternative-fuels",
+        "life-cycle-assessment",
+        "system-dynamics"
+      ],
+      "source": {
+        "title": "Phased fuel transitions for decarbonizing the Asia–Europe Green Shipping Corridor",
+        "url": "https://doi.org/10.1038/s41893-026-01878-9",
+        "kind": "paper",
+        "doi": "10.1038/s41893-026-01878-9",
+        "zoteroItemKey": "XVQJF47V",
+        "publishedAt": "2026-08-18"
+      },
+      "image": {
+        "src": "assets/articles/phased-fuel-transitions/figure-2.png",
+        "alt": "论文图2：亚欧走廊加注港口与可再生装机分布",
+        "credit": "Li et al. (2026), CC BY-NC-ND 4.0"
+      },
+      "readingTime": 12,
+      "featured": false,
+      "body": "articles/phased-fuel-transitions-for-asia-europe-corridor.md",
+      "preview": "articles/phased-fuel-transitions-for-asia-europe-corridor.html"
     }
   ]
 }
