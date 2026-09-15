@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "id": "transport-energy-data-index",
+      "type": "dataset",
+      "title": "交通与能源研究数据源索引",
+      "organization": "Abyssal Mind Editorial",
+      "domains": ["transport", "energy"],
+      "url": "",
+      "publishedAt": "2026-09-15",
+      "status": "draft"
+    },
+    {
+      "id": "shipping-emissions-indicators",
+      "type": "method",
+      "title": "航运运营与碳排放指标说明",
+      "organization": "Abyssal Mind Editorial",
+      "domains": ["shipping", "environment"],
+      "url": "",
+      "publishedAt": "2026-09-15",
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "electric-inland-vessels-operational-boundaries",
+      "type": "technology",
+      "status": "published",
+      "title": "电动内河船舶：从电池容量到运营边界",
+      "dek": "当能源系统、航线不确定性与船舶调度放在同一个模型中，电动化真正的可行边界在哪里？",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind Editorial",
+      "domains": ["transport", "energy", "shipping"],
+      "topics": ["electric-vessels"],
+      "regions": ["China"],
+      "tags": ["battery", "operations", "inland-shipping"],
+      "takeaways": ["续航能力只是约束之一，补能网络与运营节奏同样决定可行性。"],
+      "whyItMatters": "为船队电动化评估提供技术参数之外的运营视角。",
+      "source": {"title": "待补充原始研究来源", "url": "", "kind": "paper"},
+      "readingTime": 8,
+      "featured": true,
+      "body": "articles/electric-inland-vessels-operational-boundaries.md"
+    },
+    {
+      "id": "waiting-time-green-shipping-corridor",
+      "type": "research",
+      "status": "published",
+      "title": "等待时间如何改变绿色航运走廊的协同效率？",
+      "dek": "从事件链、转运节点与服务窗口出发，重新审视港口间的协调成本。",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-14",
+      "updatedAt": "2026-09-14",
+      "author": "Abyssal Mind Editorial",
+      "domains": ["shipping", "transport", "economy"],
+      "topics": ["green-shipping-corridors"],
+      "regions": ["Global"],
+      "tags": ["data", "methods", "coordination"],
+      "takeaways": ["等待和转运事件会改变走廊协同效率的测量结果。"],
+      "whyItMatters": "帮助研究者和运营方识别单纯比较航行时间之外的系统成本。",
+      "source": {"title": "待补充原始研究来源", "url": "", "kind": "paper"},
+      "readingTime": 6,
+      "featured": false,
+      "body": "articles/waiting-time-green-shipping-corridor.md"
+    }
+  ]
+}

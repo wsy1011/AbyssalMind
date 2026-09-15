@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "green-shipping-corridors",
+      "title": "绿色航运走廊",
+      "dek": "港口、燃料、船队与政策如何协同。",
+      "domains": ["shipping", "energy", "policy"],
+      "status": "active",
+      "updatedAt": "2026-09-15",
+      "articleIds": ["waiting-time-green-shipping-corridor"],
+      "openQuestions": ["基础设施协同如何影响走廊的实际减排效果？"]
+    },
+    {
+      "id": "electric-vessels",
+      "title": "船舶电动化",
+      "dek": "电池、补能和运营边界的连续追踪。",
+      "domains": ["transport", "energy", "shipping", "technology"],
+      "status": "active",
+      "updatedAt": "2026-09-15",
+      "articleIds": ["electric-inland-vessels-operational-boundaries"],
+      "openQuestions": ["不同航线和服务窗口下，电动船舶的经济性边界在哪里？"]
+    }
+  ]
+}
