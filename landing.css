@@ -2,5 +2,8 @@
 .landing-intro p{margin:0;font-family:Inter,"Noto Sans SC",sans-serif;font-size:clamp(44px,7vw,104px);font-weight:600;letter-spacing:-.075em;line-height:1}
 .landing-intro::after{content:"↓";position:absolute;bottom:34px;color:#56708a;font-size:20px;font-weight:400;animation:scroll-hint 1.8s ease-in-out infinite}
 @keyframes scroll-hint{0%,100%{transform:translateY(0);opacity:.35}50%{transform:translateY(10px);opacity:1}}
-@media(prefers-reduced-motion:reduce){.landing-intro::after{animation:none}}
+.js .reveal{opacity:0;transform:translateY(28px);transition:opacity .72s ease,transform .72s cubic-bezier(.2,.7,.2,1)}
+.js .reveal.is-visible{opacity:1;transform:translateY(0)}
+.js .site-header.reveal{transition-duration:.5s}
+@media(prefers-reduced-motion:reduce){.landing-intro::after{animation:none}.js .reveal{opacity:1;transform:none;transition:none}}
 @media(max-width:760px){.landing-intro p{font-size:clamp(42px,13vw,66px);letter-spacing:-.07em}}
