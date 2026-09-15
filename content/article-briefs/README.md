@@ -1,5 +1,7 @@
 # 首篇文章准备交接单
 
+所有新 Research Brief 的统一处理流程见 [Research Brief 工作流](../../docs/research-brief-workflow.md)。本文件仅保留首篇文章的交接信息。
+
 ## Zotero 文献
 
 - 标题：Phased fuel transitions for decarbonizing the asia–europe green shipping corridor
