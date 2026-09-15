@@ -1,7 +1,8 @@
 # 亚欧绿色航运走廊的燃料转型：政策、成本与工程约束
 
-> **Research Brief 001 · Shipping / Energy / Policy**
-> 基于 Li et al. (2026), *Nature Sustainability* 9, 1256–1265. DOI: [10.1038/s41893-026-01878-9](https://doi.org/10.1038/s41893-026-01878-9)
+<div class="article-tags"><a href="#research-brief">#ResearchBrief001</a><a href="#shipping">#Shipping</a><a href="#energy">#Energy</a><a href="#policy">#Policy</a></div>
+
+> Li, C., Gu, X., Qin, Q., Zhang, W., Xu, G., Yang, J., & Feng, K. (2026). *Phased fuel transitions for decarbonizing the Asia–Europe green shipping corridor*. *Nature Sustainability, 9*, 1256–1265. https://doi.org/10.1038/s41893-026-01878-9
 
 亚欧航线的燃料转型并不存在一条“最优燃料”直线。Li 等人把生命周期评估和系统动力学模型接在一起，追踪 13 种燃料到 2050 年的排放、能耗和经济性。论文给出的核心判断是：近期可以依靠生物燃料降低排放，长期则要转向由低碳电力支撑的电制燃料；但这条路径是否成立，取决于规则何时收紧、电力是否真的低碳，以及船舶和港口能否同步改造。
 
