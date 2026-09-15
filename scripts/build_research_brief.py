@@ -57,7 +57,7 @@ html = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>亚欧绿色航运走廊的燃料转型 | Abyssal Mind</title>
 <link rel="stylesheet" href="../styles.css"><link rel="stylesheet" href="../brief.css"><link rel="stylesheet" href="../article-shell.css"></head><body>
-<header class="site-header"><a class="brand" href="../index.html"><img src="../assets/brand/abyssal-mind-logo-dark-bg.png" alt="Abyssal Mind"><span>Abyssal Mind</span></a><nav><a href="../index.html#research">Research</a><a href="../index.html#industry">Industry</a><a href="../index.html#topics">Topics</a><a href="../index.html#resources">Resources</a><a href="../about.html">About</a></nav><button class="search" aria-label="搜索">⌕</button></header>
+<header class="site-header"><a class="brand" href="../index.html"><img src="../assets/brand/abyssal-mind-mark.png" alt="Abyssal Mind"><span>Abyssal Mind</span></a><nav><a href="../index.html#research">Research</a><a href="../index.html#industry">Industry</a><a href="../index.html#topics">Topics</a><a href="../index.html#resources">Resources</a><a href="../about.html">About</a></nav><button class="search" aria-label="搜索">⌕</button></header>
 <div class="layout"><aside><p>RESEARCH BRIEF</p>''' + ''.join(toc) + '''</aside>
 <main><div class="eyebrow">航运 / 能源 / 政策 · 研究解读草稿</div>''' + str(soup) + '''</main></div>
 <footer><span>© 2026 Abyssal Mind</span><a href="../about.html">About Abyssal Mind</a><span>Research · Industry · Deep Insight</span></footer></body></html>'''
