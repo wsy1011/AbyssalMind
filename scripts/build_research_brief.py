@@ -55,7 +55,7 @@ for i, heading in enumerate(soup.find_all('h2'), 1):
     toc.append(f'<a href="#section-{i}">{heading.get_text()}</a>')
 html = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>亚欧航运燃料转型 | Abyssal Mind</title>
+<title>亚欧绿色航运走廊的燃料转型 | Abyssal Mind</title>
 <link rel="stylesheet" href="../brief.css"></head><body>
 <header><a class="brand" href="../index.html">Abyssal Mind<span>深水区</span></a><a href="../index.html#research">← 返回研究速递</a></header>
 <div class="layout"><aside><p>RESEARCH BRIEF · 001</p>''' + ''.join(toc) + '''</aside>
