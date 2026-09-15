@@ -1,4 +1,4 @@
-# 亚欧绿色航运走廊的燃料转型：政策、成本与工程约束
+# 亚欧绿色航运走廊的燃料转型 | *Nature Sustainability*
 
 <div class="article-tags"><a href="#research-brief">#ResearchBrief</a><a href="#shipping">#Shipping</a><a href="#energy">#Energy</a><a href="#policy">#Policy</a></div>
 
