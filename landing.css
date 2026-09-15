@@ -1,3 +1,6 @@
-.landing-intro{display:flex;align-items:center;justify-content:center;min-height:100svh;background:#fff;color:#071b38}
+.landing-intro{display:flex;align-items:center;justify-content:center;min-height:100svh;background:#fff;color:#071b38;position:relative}
 .landing-intro p{margin:0;font-family:Inter,"Noto Sans SC",sans-serif;font-size:clamp(44px,7vw,104px);font-weight:600;letter-spacing:-.075em;line-height:1}
+.landing-intro::after{content:"↓";position:absolute;bottom:34px;color:#56708a;font-size:20px;font-weight:400;animation:scroll-hint 1.8s ease-in-out infinite}
+@keyframes scroll-hint{0%,100%{transform:translateY(0);opacity:.35}50%{transform:translateY(10px);opacity:1}}
+@media(prefers-reduced-motion:reduce){.landing-intro::after{animation:none}}
 @media(max-width:760px){.landing-intro p{font-size:clamp(42px,13vw,66px);letter-spacing:-.07em}}
