@@ -1,6 +1,6 @@
 # 分阶段燃料转型：亚欧绿色航运走廊如何走向脱碳？
 
-> Research Brief · Shipping · Energy · Policy  
+> Research Brief · Shipping · Energy · Policy
 > 基于 Li et al. (2026), *Nature Sustainability* 9, 1256–1265. DOI: [10.1038/s41893-026-01878-9](https://doi.org/10.1038/s41893-026-01878-9)
 
 ## 核心发现
