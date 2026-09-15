@@ -1,5 +1,5 @@
 .feature-section--first{padding-top:48px}
-.feature-card--brief{grid-template-columns:minmax(330px,.8fr) minmax(0,1.45fr);min-height:430px;background:#edf2f5}
+.feature-card--brief{grid-template-columns:minmax(330px,.8fr) minmax(0,1.45fr);min-height:430px;background:#edf2f5;border-top:0}
 .feature-card--brief>div:first-child{display:flex;flex-direction:column;justify-content:center;padding:52px 48px;background:#132c47}
 .feature-card--brief h2{font-size:clamp(32px,3.2vw,46px);max-width:11em}
 .feature-card--brief .feature-art--paper{display:flex;align-items:center;justify-content:center;padding:22px;background:#fff}
