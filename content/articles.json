@@ -125,6 +125,43 @@
       "featured": false,
       "body": "articles/phased-fuel-transitions-for-asia-europe-corridor.md",
       "preview": "articles/phased-fuel-transitions-for-asia-europe-corridor.html"
+    },
+    {
+      "id": "garg-value-creating-factors-green-shipping-corridors",
+      "type": "research",
+      "status": "published",
+      "title": "绿色航运走廊如何创造价值",
+      "dek": "从环境、经济贸易与社会因素理解绿色航运走廊的长期价值。",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind",
+      "domains": ["shipping", "policy", "economy"],
+      "topics": ["green-shipping-corridors"],
+      "regions": ["Global"],
+      "tags": ["value-creation", "fuzzy-swara", "green-shipping-corridors"],
+      "takeaways": [
+        "能源效率、能量回收与节约在 19 项因素中排名第一。",
+        "绿色投资、空气质量与社区福祉共同决定走廊能否形成长期价值。"
+      ],
+      "whyItMatters": "将绿色走廊从单一燃料议题扩展到能耗、资本、社区影响和治理的共同决策。",
+      "source": {
+        "title": "Evaluation of value creating factors in green shipping corridors",
+        "url": "https://doi.org/10.1016/j.trd.2025.104790",
+        "kind": "paper",
+        "doi": "10.1016/j.trd.2025.104790",
+        "zoteroItemKey": "WWK8ZCAY",
+        "publishedAt": "2025-05-12"
+      },
+      "image": {
+        "src": "assets/articles/garg-green-shipping-corridors/table-8.png",
+        "alt": "绿色航运走廊价值创造因素全局排序与权重",
+        "credit": "Garg et al. (2025), CC BY-NC 4.0"
+      },
+      "readingTime": 10,
+      "featured": false,
+      "body": "articles/garg-value-creating-factors-green-shipping-corridors.md",
+      "preview": "articles/garg-value-creating-factors-green-shipping-corridors.html"
     }
   ]
 }

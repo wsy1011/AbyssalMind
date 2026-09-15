@@ -1,0 +1,34 @@
+{
+  "source": {
+    "title": "Evaluation of value creating factors in green shipping corridors",
+    "doi": "10.1016/j.trd.2025.104790",
+    "zoteroItemKey": "WWK8ZCAY",
+    "zoteroAttachmentKey": "BBJZ5DMV"
+  },
+  "figures": [
+    {
+      "label": "Figure 1",
+      "pdfPage": 5,
+      "pluginResultId": "5-1yw7gem",
+      "file": "figure-1.png",
+      "sha256": "02A583D99E1EE2475AD69E26AFE5143DC8597928DAF5AC86224B9BB17899CF02",
+      "extraction": "Zotero PDF Figure original PNG copied without edits"
+    },
+    {
+      "label": "Table 8",
+      "pdfPage": 9,
+      "pluginResultId": "9-10933r6",
+      "file": "table-8.png",
+      "sha256": "A10EA55229E3E523686FBFBEADF767AF75BCA91EF432B3CD6F17D0A50B323C24",
+      "extraction": "Zotero PDF Figure original PNG copied without edits"
+    },
+    {
+      "label": "Figure 2",
+      "pdfPage": 10,
+      "pluginResultId": "10-6np7gh",
+      "file": "figure-2.png",
+      "sha256": "2F1F4CEF523746DC6D26B894A83DBABF298D507650C034826A71D18E012B9B2C",
+      "extraction": "Zotero PDF Figure original PNG copied without edits"
+    }
+  ]
+}
