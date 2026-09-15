@@ -1,4 +1,9 @@
 const reveals = document.querySelectorAll('.reveal');
+const loader = document.querySelector('.site-loader');
+
+window.addEventListener('load', () => {
+  window.setTimeout(() => loader?.classList.add('is-loaded'), 900);
+});
 
 const revealObserver = new IntersectionObserver(
   (entries, observer) => {
