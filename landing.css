@@ -1,12 +1,4 @@
-.landing-intro{display:flex;align-items:center;justify-content:center;min-height:100svh;overflow:hidden;background:#fff;color:#071b38;position:relative}
-.landing-intro::before{content:"";position:absolute;width:min(60vw,820px);height:min(60vw,820px);border-radius:50%;background:radial-gradient(circle at 45% 42%,rgba(110,208,239,.24),rgba(150,175,255,.14) 38%,rgba(250,205,235,.12) 56%,transparent 72%);filter:blur(18px)}
-.landing-intro p{position:relative;z-index:1;margin:0;font-family:Inter,"Noto Sans SC",sans-serif;font-size:clamp(44px,6vw,86px);font-weight:600;letter-spacing:-.075em;line-height:1;animation:landing-title .8s cubic-bezier(.2,.75,.2,1) both}
-.landing-intro::after{z-index:1}
-@keyframes landing-title{from{transform:translateY(12px);opacity:0}to{transform:translateY(0);opacity:1}}
-.landing-intro::after{content:"↓";position:absolute;bottom:34px;color:#56708a;font-size:20px;font-weight:400;animation:scroll-hint 1.8s ease-in-out infinite}
-@keyframes scroll-hint{0%,100%{transform:translateY(0);opacity:.35}50%{transform:translateY(10px);opacity:1}}
 .js .reveal{opacity:0;transform:translateY(28px);transition:opacity .72s ease,transform .72s cubic-bezier(.2,.7,.2,1)}
 .js .reveal.is-visible{opacity:1;transform:translateY(0)}
 .js .site-header.reveal{transition-duration:.5s}
-@media(prefers-reduced-motion:reduce){.landing-intro p,.landing-intro::after{animation:none}.js .reveal{opacity:1;transform:none;transition:none}}
-@media(max-width:760px){.landing-intro p{font-size:clamp(42px,13vw,66px);letter-spacing:-.07em}}
+@media(prefers-reduced-motion:reduce){.js .reveal{opacity:1;transform:none;transition:none}}
