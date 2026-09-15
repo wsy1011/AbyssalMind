@@ -2,6 +2,7 @@
 .feature-card--brief{grid-template-columns:minmax(330px,.9fr) minmax(0,1.35fr);min-height:440px;background:#fff;border:1px solid #dbe2e8}
 .feature-card--brief>div:first-child{display:flex;flex-direction:column;justify-content:center;padding:50px 46px;background:#28323e}
 .feature-card--brief h2{max-width:10em;font-family:Georgia,"Noto Serif SC",serif;font-size:clamp(32px,3.1vw,46px);font-weight:600;letter-spacing:-.045em;line-height:1.16}
+.feature-card--brief .feature-journal{display:block;margin-top:12px;color:#95c8d8;font-family:Inter,"Noto Sans SC",sans-serif;font-size:clamp(17px,1.45vw,22px);font-weight:500;letter-spacing:-.02em;line-height:1.25}
 .feature-card--brief .meta{color:#a6b7c8}
 .feature-card--brief .feature-art--paper{display:flex;align-items:center;justify-content:center;padding:18px;background:#fff}
 .feature-card--brief .feature-art--paper img{width:100%;height:100%;object-fit:contain}
