@@ -2,6 +2,81 @@
   "version": 1,
   "articles": [
     {
+      "id": "global-vessel-co2-navigable-rivers",
+      "type": "research",
+      "status": "published",
+      "title": "河流船舶排放：全球水运碳账本中被低估的一块",
+      "dek": "基于约 200 亿条 AIS 记录的全球估算显示，内河船舶排放高度集中在少数河流走廊，并受运输需求与通航水文条件共同影响。",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind Editorial",
+      "domains": ["shipping", "transport", "energy", "climate"],
+      "topics": ["green-shipping-corridors", "inland-shipping"],
+      "regions": ["Global", "China", "Europe", "North America"],
+      "tags": ["AIS", "emissions", "rivers", "inland-shipping", "climate"],
+      "takeaways": ["2022 年内河船舶排放估计为 164.0 ± 1.58 TgCO₂，约占全球水运船舶排放的 24.7%。", "排放最高的 20 条河流贡献了总量的 68.72%。"],
+      "whyItMatters": "将内河船舶排放定位到具体河流、季节和通航条件，为船队更新、岸基能源和排放清单提供更细的空间依据。",
+      "source": {"title": "Global vessel carbon dioxide emission from navigable rivers", "url": "https://doi.org/10.1038/s41558-026-02718-6", "kind": "paper", "doi": "10.1038/s41558-026-02718-6", "zoteroItemKey": "P37YIDSX", "publishedAt": "2026"},
+      "image": {"src": "assets/articles/global-vessel-co2-navigable-rivers/figure-1.png", "alt": "全球内河船舶二氧化碳排放的空间分布与组成", "credit": "Lu et al. (2026), Nature Climate Change"},
+      "readingTime": 11,
+      "featured": false,
+      "body": "articles/global-vessel-co2-navigable-rivers.md",
+      "preview": "articles/global-vessel-co2-navigable-rivers.html"
+    },
+    {
+      "id": "annual-progress-green-shipping-corridors-2025",
+      "type": "signal",
+      "status": "published",
+      "title": "绿色航运走廊增至 84 条，但商业闭环仍未形成",
+      "dek": "年度报告显示走廊倡议继续扩张，但燃料成本缺口、货主溢价意愿和资本部署仍将多数项目留在早期阶段。",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind Editorial",
+      "domains": [
+        "shipping",
+        "energy",
+        "policy",
+        "economy"
+      ],
+      "topics": [
+        "green-shipping-corridors"
+      ],
+      "regions": [
+        "Global",
+        "China",
+        "India",
+        "Brazil"
+      ],
+      "tags": [
+        "green-corridors",
+        "alternative-fuels",
+        "infrastructure",
+        "market"
+      ],
+      "takeaways": [
+        "84 个已宣布倡议不等于 84 条已部署的零排放航线。",
+        "从 Preparation 走向 Realisation 的核心障碍仍是燃料成本缺口与需求侧溢价。"
+      ],
+      "whyItMatters": "将走廊的项目数量与实际燃料、船舶和基础设施部署区分开来，帮助行业判断商业化进展。",
+      "source": {
+        "title": "At a Crossroads: Annual Progress Report on Green Shipping Corridors 2025",
+        "url": "https://globalmaritimeforum.org/report/annual-progress-report-on-green-shipping-corridors-2025/",
+        "kind": "report",
+        "publishedAt": "2025-11-27"
+      },
+      "image": {
+        "src": "assets/articles/annual-progress-green-shipping-corridors-2025/figure-2.png",
+        "alt": "报告图2：绿色航运走廊的航运范围与地理分布",
+        "credit": "Chan (2025), Global Maritime Forum / Getting to Zero Coalition"
+      },
+      "readingTime": 8,
+      "featured": false,
+      "body": "articles/annual-progress-green-shipping-corridors-2025.md",
+      "preview": "articles/annual-progress-green-shipping-corridors-2025.html"
+    },
+    {
       "id": "electric-inland-vessels-operational-boundaries",
       "type": "technology",
       "status": "published",
@@ -162,6 +237,36 @@
       "featured": false,
       "body": "articles/garg-value-creating-factors-green-shipping-corridors.md",
       "preview": "articles/garg-value-creating-factors-green-shipping-corridors.html"
+    },
+    {
+      "id": "clydebank-declaration-green-shipping-corridors",
+      "type": "policy",
+      "status": "published",
+      "title": "Clydebank Declaration：绿色航运走廊如何进入国际政策议程",
+      "dek": "COP26 联合声明为绿色航运走廊提供跨国行动框架，但它本身不构成强制性部署机制。",
+      "language": "zh-CN",
+      "publishedAt": "2026-09-15",
+      "updatedAt": "2026-09-15",
+      "author": "Abyssal Mind",
+      "domains": ["shipping", "policy"],
+      "topics": ["green-shipping-corridors", "maritime-policy"],
+      "regions": ["Global"],
+      "tags": ["COP26", "Clydebank-Declaration", "policy"],
+      "takeaways": [
+        "声明将绿色航运走廊定义为连接两个或更多港口的零排放海运航线。",
+        "它是自愿性的政策锚点，不能替代燃料合同、基础设施建设和项目尽调。"
+      ],
+      "whyItMatters": "说明绿色航运走廊如何从行业倡议进入政府间合作和国家行动计划。",
+      "source": {
+        "title": "COP26: Clydebank Declaration for green shipping corridors",
+        "url": "https://www.gov.uk/government/publications/cop-26-clydebank-declaration-for-green-shipping-corridors/cop-26-clydebank-declaration-for-green-shipping-corridors",
+        "kind": "policy",
+        "publishedAt": "2023-12-06"
+      },
+      "readingTime": 5,
+      "featured": false,
+      "body": "articles/clydebank-declaration-green-shipping-corridors.html",
+      "preview": "articles/clydebank-declaration-green-shipping-corridors.html"
     }
   ]
 }

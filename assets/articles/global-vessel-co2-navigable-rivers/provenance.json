@@ -1,0 +1,35 @@
+[
+  {
+    "figure": 1,
+    "sourceFigure": "Fig. 1",
+    "pdfPage": 2,
+    "pluginResultId": "2-9478lf",
+    "file": "assets/articles/global-vessel-co2-navigable-rivers/figure-1.png",
+    "sha256": "45b35363671f2c9730be4fac53f024a853741901ebcf85a56f61452b544027dd",
+    "extraction": "Zotero PDF Figure cache; copied without image edits",
+    "sourceFingerprint": "file:14592000:1785231341595",
+    "doi": "10.1038/s41558-026-02718-6"
+  },
+  {
+    "figure": 2,
+    "sourceFigure": "Fig. 2",
+    "pdfPage": 4,
+    "pluginResultId": "4-1413qga",
+    "file": "assets/articles/global-vessel-co2-navigable-rivers/figure-2.png",
+    "sha256": "183d7ccca1acb8f6de7ee77e182b03eeeb0be7d84ca076558966e6f723b20ff0",
+    "extraction": "Zotero PDF Figure cache; copied without image edits",
+    "sourceFingerprint": "file:14592000:1785231341595",
+    "doi": "10.1038/s41558-026-02718-6"
+  },
+  {
+    "figure": 3,
+    "sourceFigure": "Extended Data Fig. 5",
+    "pdfPage": 16,
+    "pluginResultId": "16-1l9hblw",
+    "file": "assets/articles/global-vessel-co2-navigable-rivers/extended-data-5.png",
+    "sha256": "0b9e14306728a25e9733248e89f5853e68323fb7ec023eb2d061452f00470203",
+    "extraction": "Zotero PDF Figure cache; copied without image edits",
+    "sourceFingerprint": "file:14592000:1785231341595",
+    "doi": "10.1038/s41558-026-02718-6"
+  }
+]
