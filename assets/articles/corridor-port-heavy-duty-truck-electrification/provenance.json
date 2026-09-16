@@ -1,0 +1,41 @@
+{
+  "source": {
+    "title": "Collaborative planning framework for heavy-duty truck electrification: Corridor-port integrated energy systems",
+    "authors": "Wang et al.",
+    "journal": "Transportation Research Part D: Transport and Environment",
+    "year": 2026,
+    "doi": "10.1016/j.trd.2026.105537",
+    "zoteroItemKey": "HPMQ5JZA",
+    "zoteroAttachmentKey": "AU4CIUYF"
+  },
+  "figures": [
+    {
+      "file": "assets/articles/corridor-port-heavy-duty-truck-electrification/figure-1.jpg",
+      "sourceFigure": "Fig. 1",
+      "pdfPage": 5,
+      "sha256": "fa35ee0f0e2ef0a5c9196d3f3e4df59d713bba9fcbdcd86202bf1a56f2f5c7e5",
+      "transformation": "Extracted from the Zotero PDF embedded image; unchanged."
+    },
+    {
+      "file": "assets/articles/corridor-port-heavy-duty-truck-electrification/figure-5.jpg",
+      "sourceFigure": "Fig. 5",
+      "pdfPage": 15,
+      "sha256": "92d921bd8758073370b071d01fefce0a67c016e77d58b890aa93a1278df55adf",
+      "transformation": "Extracted from the Zotero PDF embedded image; unchanged."
+    },
+    {
+      "file": "assets/articles/corridor-port-heavy-duty-truck-electrification/figure-10.jpg",
+      "sourceFigure": "Fig. 10",
+      "pdfPage": 19,
+      "sha256": "167df881b6a3bfb333c641cfed0eabd23feff762550e07f2d6dd6b9f7ed9764e",
+      "transformation": "Extracted from the Zotero PDF embedded image; unchanged."
+    },
+    {
+      "file": "assets/articles/corridor-port-heavy-duty-truck-electrification/figure-15.jpg",
+      "sourceFigure": "Fig. 15",
+      "pdfPage": 22,
+      "sha256": "f735771ee20be290a13b598ab03dc35d1c061402c93e506fba20fe49d79641ff",
+      "transformation": "Extracted from the Zotero PDF embedded image; unchanged."
+    }
+  ]
+}
